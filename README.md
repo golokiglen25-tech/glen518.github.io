@@ -1,2 +1,2 @@
-# glen518.github.io
+# golokiglen25-tech.github.io
 Resource Hub for my YouTube channel.
